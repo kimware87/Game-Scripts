@@ -1,0 +1,7 @@
+#SingleInstance Force
+#Requires AutoHotkey v2.0+
+SetTitleMatchMode 2
+
+SoundSetVolume 20
+Space::Numpad7
+    
