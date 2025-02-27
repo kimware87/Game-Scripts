@@ -5,11 +5,11 @@ SetTitleMatchMode 2
 ;Cheat Codes for StarCraft 2 Game to enjoy Dev Mode Game
 ;Using Cheat Codes will automatically disable achievements in game
 
-::red::TooktheRedPill           ;Disable Fog of War
-::god::TerribleTerribleDamage   ;Enables God Mode
-::barter::WhoRunBarterTown      ;Adds 5000 Resources
-::cat::CatFoodForPrawnGuns      ;Enables Fast Builds and Upgrade
-::han::HanShotFirst             ;Disables Cooldowns on Skills
+::red::TooktheRedPill                   ;Disable Fog of War
+::god::TerribleTerribleDamage           ;Enables God Mode
+::barter::WhoRunBarterTown              ;Adds 5000 Resources
+::cat::CatFoodForPrawnGuns              ;Enables Fast Builds and Upgrade
+::han::HanShotFirst                     ;Disables Cooldowns on Skills
 
 ::bunker::Bunker55AliveInside           ;Disables Supply Requirements
 ::iron::IAmIronMan                      ;Instantly Allows all Upgrades
